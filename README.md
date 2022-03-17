@@ -1,4 +1,5 @@
 ### Hi there 👋 This is Aminur Rahman
+I'm a front end developer who loves his craft. My goal is to write tidy and maintainable code that delivers appealing and intuitive interfaces. I enjoy good design and collaborating in making it happen. I'm a good team player and I have good communication skills.
 
 <!--
 **aminur09/aminur09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
